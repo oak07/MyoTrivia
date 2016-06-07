@@ -1,0 +1,744 @@
+{
+    "Entertainment Music": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Fatboy Slim"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Spinderella"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Avicii"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Qbert"
+                    }
+                ],
+                "correctIndex": 2,
+                "questionText": "Coldplay co-wrote the 2014 hit \"A Sky Full of Stars\" with which Swedish DJ?"
+            }
+        ]
+    },
+    "Entertainment: Movies": {
+        "easy": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Tom Hardy"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Sam Worthington"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Mel Gibson"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Jeremy Renner"
+                    }
+                ],
+                "correctIndex": 0,
+                "questionText": "In 2015, which actor starred as Max Rockatansky in the fourth \"Mad Max\" film: \"Mad Max: Fury Road\"?"
+            },
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Matthew McConaughey"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Chris Pratt"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Bradley Cooper"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Christian Bale"
+                    }
+                ],
+                "correctIndex": 2,
+                "questionText": "Which actor portrayed U.S. Navy SEAL sniper Chris Kyle in the 2014 film \"American Sniper\"?"
+            },
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Michael Douglas"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Jim Carrey"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Paul Rudd"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Chris Pratt"
+                    }
+                ],
+                "correctIndex": 2,
+                "questionText": "Who plays master thief Scott Lang in the 2015 movie \"Ant-Man\"."
+            }
+        ]
+    },
+    "Entertainment: Music": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "West Side Story"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Annie"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Rent"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Guys and Dolls"
+                    }
+                ],
+                "correctIndex": 1,
+                "questionText": "What Broadway musical is sampled in Jay-Z's \"Hard Knock Life\"?"
+            },
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Fearless"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Speak Now"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "1989"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "1999"
+                    }
+                ],
+                "correctIndex": 2,
+                "questionText": "What is the name of Taylor Swift's fifth album, released in 2014?"
+            }
+        ]
+    },
+    "General Knowledge: Arts": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Seurat"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Monet"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Manet"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Degas"
+                    }
+                ],
+                "correctIndex": 0,
+                "questionText": "Which artist most famously employed the technique know as pointillism?"
+            }
+        ]
+    },
+    "General Knowledge: Beauty And Fashion": {
+        "hard": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "L.L. Bean"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Abercrombie & Fitch"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Kenneth Cole"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Calvin Klein"
+                    }
+                ],
+                "correctIndex": 0,
+                "questionText": "Who started their company marketing the Maine Hunting Shoe?"
+            }
+        ]
+    },
+    "General Knowledge: Food & Beverage": {
+        "easy": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Muenster"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Gouda"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Ricotta"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Pepato"
+                    }
+                ],
+                "correctIndex": 2,
+                "questionText": "What cheese's name literally means \"recooked\" in Italian?"
+            }
+        ]
+    },
+    "General Knowledge: Literature": {
+        "easy": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "A Chocolate Factory"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Magical Boots"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "A Flying Car"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "A Giant Peach"
+                    }
+                ],
+                "correctIndex": 3,
+                "questionText": "In a book by Roald Dahl, first published in 1961, what does the character James have?"
+            }
+        ],
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Joseph Heller"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "J.D. Salinger"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Arthur C. Clarke"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Joseph Conrad"
+                    }
+                ],
+                "correctIndex": 3,
+                "questionText": "\"Apocalypse Now\" is an adaptation of a work by what author?"
+            }
+        ]
+    },
+    "General Knowledge: Science": {
+        "easy": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "NOAA"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "UPS"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "USPS"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "NASA"
+                    }
+                ],
+                "correctIndex": 3,
+                "questionText": "What agency maintains the U.S. space program?"
+            }
+        ]
+    },
+    "Sports Golf": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Gene Sarazen"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Bobby Jones"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Bobby Locke"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Byron Nelson"
+                    }
+                ],
+                "correctIndex": 0,
+                "questionText": "Which golfer was nicknamed \"Squire of the Greens\"?"
+            }
+        ]
+    },
+    "Sports: Auto Racing": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Slow Down"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Conserve Fuel"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Accident Ahead"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "All Clear"
+                    }
+                ],
+                "correctIndex": 3,
+                "questionText": "In a Formula One race, what does a green flag indicate?"
+            }
+        ]
+    },
+    "Sports: Baseball": {
+        "medium": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Antonio Velasquez"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Constantino Martinez"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Tino Sanchez"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Diego De La Vega"
+                    }
+                ],
+                "correctIndex": 1,
+                "questionText": "What is the birth name of the Yankees' Tino Martinez?"
+            }
+        ]
+    },
+    "Sports: Basketball": {
+        "easy": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Chicago Bulls"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Philadelphia 76ers"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Miami Heat"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "LA Lakers"
+                    }
+                ],
+                "correctIndex": 1,
+                "questionText": "What team did Kobe Bryant's father, Joe \"Jellybean\" Bryant, play for?"
+            }
+        ]
+    },
+    "Sports: Football": {
+        "hard": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "Wayne Chrebet"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "Peyton Manning"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Andrew Luck"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "Robert Griffin III"
+                    }
+                ],
+                "correctIndex": 3,
+                "questionText": "What highly-touted rookie threw for 320 yards in his first ever NFL game of the 2012 regular season?"
+            }
+        ]
+    },
+    "Sports: Golf": {
+        "hard": [
+            {
+                "answers": [
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "wave_in"
+                        ],
+                        "text": "New Zealand"
+                    },
+                    {
+                        "gesture": [
+                            "fingers_spread",
+                            "fist",
+                            "fingers_spread"
+                        ],
+                        "text": "United States"
+                    },
+                    {
+                        "gesture": [
+                            "wave_out",
+                            "fist",
+                            "wave_in"
+                        ],
+                        "text": "Spain"
+                    },
+                    {
+                        "gesture": [
+                            "fist",
+                            "fingers_spread",
+                            "fist"
+                        ],
+                        "text": "England"
+                    }
+                ],
+                "correctIndex": 1,
+                "questionText": "What country hosted the 2012 Ryder Cup?"
+            }
+        ]
+    }
+}

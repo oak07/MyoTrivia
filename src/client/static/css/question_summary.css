@@ -1,0 +1,41 @@
+#question_summary_results {
+  margin: 20px auto;
+  text-align: center;
+}
+
+#question_summary_list {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#question_summary_review {
+  margin-top: 20px;
+}
+
+.summary-item .collapsed {
+  height: 40px;
+  line-height: 40px;
+}
+
+.summary-item {
+  background-color: #FFF8DC;
+  border: 1px solid black;
+  cursor: pointer;
+  height: inherit;
+  margin: 8px auto;
+  vertical-align: middle;
+  width: 400px;
+}
+
+.summary-label {
+  display: table;
+  font-weight: bold;
+  padding: 4px 0px;
+  text-align: center;
+  width: inherit;
+}
+
+.summary-item-details {
+  padding: 8px;
+}

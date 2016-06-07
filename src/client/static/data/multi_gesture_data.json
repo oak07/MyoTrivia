@@ -1,0 +1,340 @@
+{
+   "Sports":{
+      "easy":[
+         {
+            "questionText":"Which sport awards the Ryder's Cup?",
+            "answers":[
+               {
+                  "text":"Hockey",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Football",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Baseball",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Golf",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":3
+         },
+         {
+            "questionText":"Which American Football player had the nickname 'Sweetness'?",
+            "answers":[
+               {
+                  "text":"Damon Allen",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Walter Payton",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Earl Campbell",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Tom Brady",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         },
+         {
+            "questionText":"Who won the 2013 National Basketball Association (NBA) title?",
+            "answers":[
+               {
+                  "text":"Miami Heat",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"LA Lakers",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Chicago Bulls",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"San Antonio Spurs",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":0
+         },
+         {
+            "questionText":"In which city do the Steelers compete in the NFL?",
+            "answers":[
+               {
+                  "text":"Denever",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"New York",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Pittsburgh",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Seattle",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":2
+         },
+         {
+            "questionText":"Which NHL Team are nicknamed the 'Coyotes'?",
+            "answers":[
+               {
+                  "text":"Ottowa",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Arizona",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Calgary",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Vancouver",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         }
+      ],
+      "medium":[
+         {
+            "questionText":"Which sport awards the Ryder's Cup?",
+            "answers":[
+               {
+                  "text":"Hockey",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Football",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Baseball",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Golf",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":3
+         },
+         {
+            "questionText":"Which American Football player had the nickname 'Sweetness'?",
+            "answers":[
+               {
+                  "text":"Damon Allen",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Walter Payton",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Earl Campbell",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Tom Brady",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         },
+         {
+            "questionText":"Who won the 2013 National Basketball Association (NBA) title?",
+            "answers":[
+               {
+                  "text":"Miami Heat",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"LA Lakers",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Chicago Bulls",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"San Antonio Spurs",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":0
+         },
+         {
+            "questionText":"In which city do the Steelers compete in the NFL?",
+            "answers":[
+               {
+                  "text":"Denever",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"New York",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Pittsburgh",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Seattle",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":2
+         },
+         {
+            "questionText":"Which NHL Team are nicknamed the 'Coyotes'?",
+            "answers":[
+               {
+                  "text":"Ottowa",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Arizona",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Calgary",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Vancouver",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         }
+      ],
+      "difficult":[
+         {
+            "questionText":"Which sport awards the Ryder's Cup?",
+            "answers":[
+               {
+                  "text":"Hockey",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Football",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Baseball",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Golf",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":3
+         },
+         {
+            "questionText":"Which American Football player had the nickname 'Sweetness'?",
+            "answers":[
+               {
+                  "text":"Damon Allen",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Walter Payton",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Earl Campbell",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Tom Brady",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         },
+         {
+            "questionText":"Who won the 2013 National Basketball Association (NBA) title?",
+            "answers":[
+               {
+                  "text":"Miami Heat",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"LA Lakers",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Chicago Bulls",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"San Antonio Spurs",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":0
+         },
+         {
+            "questionText":"In which city do the Steelers compete in the NFL?",
+            "answers":[
+               {
+                  "text":"Denever",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"New York",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Pittsburgh",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Seattle",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":2
+         },
+         {
+            "questionText":"Which NHL Team are nicknamed the 'Coyotes'?",
+            "answers":[
+               {
+                  "text":"Ottowa",
+                  "gesture":["fist","fingers_spread","wave_in"]
+               },
+               {
+                  "text":"Arizona",
+                  "gesture":["fingers_spread","fist","fingers_spread"]
+               },
+               {
+                  "text":"Calgary",
+                  "gesture":["wave_out","fist","wave_in"]
+               },
+               {
+                  "text":"Vancouver",
+                  "gesture":["fist","fingers_spread","fist"]
+               }
+            ],
+            "correctIndex":1
+         }
+      ]
+   }
+}

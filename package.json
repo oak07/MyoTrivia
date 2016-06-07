@@ -1,0 +1,23 @@
+{
+  "name" : "MyoTrivia",
+  "version": "0.0.1",
+  "description": "An EMG Biofeedback game using the Myo armband for patients recovering from a stroke",
+  "scripts": {
+    "make" : "./node_modules/.bin/gulp",
+    "serve" : "node bin/server/main.js"
+  },
+  "dependencies": {
+    "express" : "latest",
+    "gulp" : "latest",
+    "gulp-concat" : "latest",
+    "browserify" : "latest",
+    "browserify-css" : "latest",
+    "jquery" : "latest",
+    "reactify" : "latest",
+    "react" : "latest",
+    "react-dom": "latest",
+    "vinyl-source-stream" : "latest",
+    "myo" : "latest"
+  },
+  "license": "N/A"
+}

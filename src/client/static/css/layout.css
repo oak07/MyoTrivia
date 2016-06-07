@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#content {
+  width: 600px;
+  padding: 25px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.game_title {
+  margin: 0px;
+  padding: 0px;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+#main_menu {
+  width: 300px;
+  height: 300px;
+  margin: 50px auto;
+  padding: 0px;
+  list-style: none;
+  position: relative;
+}
+
+#main_menu li {
+  background: #D2D2D2;
+  color: #222;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  text-align: center;
+  line-height: 150px;
+  vertical-align: middle;
+}
+
+#main_menu li:hover {
+  background: #C2C2C2;
+  cursor: pointer;
+}
+
+#menu_start_game {
+  top: -2px;
+  left: -2px;
+}
+
+#menu_achievements {
+  top: -2px;
+  right: -2px;
+}
+
+#menu_settings {
+  bottom: -2px;
+  left: -2px;
+}
+
+#menu_help {
+  bottom: -2px;
+  right: -2px;
+}
+
+.myoStatus, .navigation {
+  display: inline-block;
+}
+
+.myoStatus {
+  width: 130px;
+}
+
+.navigation {
+  float: right;
+}
+
+.navigation div {
+  display: inline-block;
+  margin-left: 25px;
+  font-size: 12px;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 1px;
+  color: black;
+  background-color: #D2D2D2;
+  font-weight: bold; 
+}
+
+.navigation div:hover {
+  cursor: pointer;
+  background: #C2C2C2;
+}
+
+.welcome_note {
+  text-align: center;
+}
+
+.categories {
+  list-style: none;
+  padding-left: none;
+  text-align: center;
+}
+
+.categories li {
+  width: 500px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #D2D2D2;
+}
+
+.categories li:hover {
+  cursor: pointer;
+  background: #C2C2C2;
+}
+
+.interactions {
+  list-style: none;
+  padding-left: none;
+  text-align: center;
+}
+
+.interactions li {
+  width: 500px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #D2D2D2;
+}
+
+.interactions li.active {
+  background-color: #A2A2D2;
+}
+
+.interactions li:hover {
+  cursor: pointer;
+}
+
+
